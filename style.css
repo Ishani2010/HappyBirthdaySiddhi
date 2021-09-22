@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+body{
+    font-family: 'Pattaya', sans-serif;
+    background-color: purple;
+    color: yellow;
+    text-align: center;
+    margin: 30px;
+    padding: 50px;
+}
+img{
+    border: 10px solid violet;
+    border-radius: 30px;
+}
+img:hover{
+    border: 10px solid yellow;
+    cursor: pointer;
+}
